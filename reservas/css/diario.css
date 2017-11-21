@@ -1,0 +1,217 @@
+
+/**
+    This file is part of Sistema de Reservas.
+    Copyright (C) 2017  Tarlis Tortelli Portela <tarlis@tarlis.com.br>
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU Affero General Public License as
+    published by the Free Software Foundation, either version 3 of the
+    License, or any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU Affero General Public License for more details.
+
+    You should have received a copy of the GNU Affero General Public License
+    along with this program.  If not, see <https://www.gnu.org/licenses/>.
+*/
+.label-danger, .label-error {
+    background-color: #d9534f;
+}
+/* ---------- INEX CSS ----------------- */
+#DIV_1 {
+    box-sizing: border-box;
+    color: rgb(51, 51, 51);
+    height: 358.5px;
+    width: 1170px;
+    perspective-origin: 585px 179.25px;
+    transform-origin: 585px 179.25px;
+    border: 0px none rgb(51, 51, 51);
+    font: normal normal normal normal 14px/20px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 0px -15px;
+    outline: rgb(51, 51, 51) none 0px;
+}/*#DIV_1*/
+
+#DIV_1:after {
+    box-sizing: border-box;
+    clear: both;
+    color: rgb(51, 51, 51);
+    display: table;
+    width: 1px;
+    perspective-origin: 0.5px 0px;
+    transform-origin: 0.5px 0px;
+    content: ' ';
+    border: 0px none rgb(51, 51, 51);
+    font: normal normal normal normal 14px/0px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(51, 51, 51) none 0px;
+}/*#DIV_1:after*/
+
+#DIV_1:before {
+    box-sizing: border-box;
+    color: rgb(51, 51, 51);
+    display: table;
+    width: 1px;
+    perspective-origin: 0.5px 0px;
+    transform-origin: 0.5px 0px;
+    content: ' ';
+    border: 0px none rgb(51, 51, 51);
+    font: normal normal normal normal 14px/0px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(51, 51, 51) none 0px;
+}/*#DIV_1:before*/
+
+#DIV_2 {
+    box-sizing: border-box;
+    color: rgb(51, 51, 51);
+    float: left;
+    height: 358.5px;
+    min-height: 1px;
+    position: relative;
+    width: 1170px;
+    perspective-origin: 585px 179.25px;
+    transform-origin: 585px 179.25px;
+    border: 0px none rgb(51, 51, 51);
+    font: normal normal normal normal 14px/20px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(51, 51, 51) none 0px;
+    padding: 0px 15px;
+}/*#DIV_2*/
+
+#DIV_3 {
+    box-sizing: border-box;
+    color: rgb(51, 51, 51);
+    height: 328.5px;
+    width: 1140px;
+    perspective-origin: 570px 164.25px;
+    transform-origin: 570px 164.25px;
+    background: rgb(238, 238, 238) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(51, 51, 51);
+    border-radius: 6px 6px 6px 6px;
+    font: normal normal normal normal 14px/20px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 0px 0px 30px;
+    outline: rgb(51, 51, 51) none 0px;
+    padding: 48px 60px;
+}/*#DIV_3*/
+
+#DIV_4 {
+    box-sizing: border-box;
+    color: rgb(51, 51, 51);
+    height: 232.5px;
+    width: 1050px;
+    perspective-origin: 525px 116.25px;
+    transform-origin: 525px 116.25px;
+    border: 0px none rgb(51, 51, 51);
+    font: normal normal normal normal 14px/20px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 0px -15px;
+    outline: rgb(51, 51, 51) none 0px;
+}/*#DIV_4*/
+
+#DIV_4:after {
+    box-sizing: border-box;
+    clear: both;
+    color: rgb(51, 51, 51);
+    display: table;
+    width: 1px;
+    perspective-origin: 0.5px 0px;
+    transform-origin: 0.5px 0px;
+    content: ' ';
+    border: 0px none rgb(51, 51, 51);
+    font: normal normal normal normal 14px/0px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(51, 51, 51) none 0px;
+}/*#DIV_4:after*/
+
+#DIV_4:before {
+    box-sizing: border-box;
+    color: rgb(51, 51, 51);
+    display: table;
+    width: 1px;
+    perspective-origin: 0.5px 0px;
+    transform-origin: 0.5px 0px;
+    content: ' ';
+    border: 0px none rgb(51, 51, 51);
+    font: normal normal normal normal 14px/0px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(51, 51, 51) none 0px;
+}/*#DIV_4:before*/
+
+#DIV_5 {
+    box-sizing: border-box;
+    color: rgb(51, 51, 51);
+    float: left;
+    height: 232.5px;
+    min-height: 1px;
+    position: relative;
+    width: 262.5px;
+    perspective-origin: 131.25px 116.25px;
+    transform-origin: 131.25px 116.25px;
+    border: 0px none rgb(51, 51, 51);
+    font: normal normal normal normal 14px/20px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(51, 51, 51) none 0px;
+    padding: 0px 15px;
+}/*#DIV_5*/
+
+#IMG_6 {
+    box-sizing: border-box;
+    color: rgb(51, 51, 51);
+    display: block;
+    height: 232.5px;
+    max-width: 100%;
+    vertical-align: middle;
+    width: 232.5px;
+    perspective-origin: 116.25px 116.25px;
+    transform-origin: 116.25px 116.25px;
+    border: 0px none rgb(51, 51, 51);
+    font: normal normal normal normal 14px/20px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(51, 51, 51) none 0px;
+}/*#IMG_6*/
+
+#DIV_7 {
+    box-sizing: border-box;
+    color: rgb(51, 51, 51);
+    float: left;
+    height: 189px;
+    min-height: 1px;
+    position: relative;
+    width: 525px;
+    perspective-origin: 262.5px 94.5px;
+    transform-origin: 262.5px 94.5px;
+    border: 0px none rgb(51, 51, 51);
+    font: normal normal normal normal 14px/20px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(51, 51, 51) none 0px;
+    padding: 0px 15px;
+}/*#DIV_7*/
+
+#H1_8 {
+    box-sizing: border-box;
+    color: rgb(51, 51, 51);
+    height: 69px;
+    text-rendering: optimizelegibility;
+    width: 495px;
+    perspective-origin: 247.5px 34.5px;
+    transform-origin: 247.5px 34.5px;
+    border: 0px none rgb(51, 51, 51);
+    font: normal normal 500 normal 63px/69.3000030517578px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 20px 0px 10px;
+    outline: rgb(51, 51, 51) none 0px;
+}/*#H1_8*/
+
+#P_9, #P_10 {
+    box-sizing: border-box;
+    color: rgb(51, 51, 51);
+    height: 30px;
+    width: 495px;
+    perspective-origin: 247.5px 15px;
+    transform-origin: 247.5px 15px;
+    border: 0px none rgb(51, 51, 51);
+    font: normal normal 200 normal 21px/30px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 0px 0px 15px;
+    outline: rgb(51, 51, 51) none 0px;
+}/*#P_9, #P_10*/
+
+#A_11 {
+    box-sizing: border-box;
+    color: rgb(51, 122, 183);
+    text-decoration: none;
+    border: 0px none rgb(51, 122, 183);
+    font: normal normal 200 normal 21px/30px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(51, 122, 183) none 0px;
+}/*#A_11*/
+/*----------------------------------------------------------------------------------------------------------------------------*/
